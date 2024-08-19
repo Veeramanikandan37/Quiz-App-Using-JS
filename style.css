@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: darkgrey;
+}
+
+.container{
+    width: 740px;
+    padding: 20px;
+    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+ span{
+    display: block;
+ }
+.qtns{
+    background-color: rgb(203, 141, 141);
+    padding: 0px;
+    text-align: center;
+    margin: 30px 0px;
+    padding: 10px 20px;
+}
+.qtns p{
+    text-align: start;
+}
+.options p{
+    background-color: antiquewhite;
+    display: inline-block;
+    width: 630px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+.options label{
+    color: whitesmoke;
+    padding: 10px;
+    display: inline-block;
+    background-color: darkslategrey;
+}
+.qtn{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
